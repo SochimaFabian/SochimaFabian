@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sochima Fabian Onuorah</h1>
 <h3 align="center">I'm Sochima Fabian Onuorah, a full-stack web developer from Africa. I enjoy working with PHP, Python and Javascript and building web applications that help solve real-world problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sochimafabian&label=Profile%20views&color=0e75b6&style=flat" alt="sochimafabian" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=sochimafabian&label=Profile%20views&color=0e75b6&style=flat" alt="sochimafabian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sochimafabian" alt="sochimafabian" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sochyma_onuorah" target="blank"><img src="https://img.shields.io/twitter/follow/sochyma_onuorah?logo=twitter&style=for-the-badge" alt="sochyma_onuorah" /></a> </p>
+<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sochimafabian" alt="sochimafabian" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sochyma_onuorah" target="blank"><img src="https://img.shields.io/twitter/follow/sochyma_onuorah?logo=twitter&style=for-the-badge" alt="sochyma_onuorah" /></a> </p>
+
+<p align="left"> <a href="https://instagram.com/sochyma_onuorah" target="blank"><img src="https://img.shields.io/instagram/follow/sochyma_onuorah?logo=instagram&style=for-the-badge" alt="sochyma_onuorah" /></a> </p>
 
 - 🌱 I’m currently learning **AI development**
 

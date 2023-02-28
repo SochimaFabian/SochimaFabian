@@ -1,3 +1,4 @@
+<img src="https://img.freepik.com/premium-photo/happy-young-successful-it-engineer-casualwear-looking-you-while-sitting-by-workplace-against-c_622301-5572.jpg?size=626&ext=jpg&uid=R61898294&semt=ais" width=1000>
 <h1 align="center">Hi 👋, I'm Sochima Fabian Onuorah</h1>
 <h3 align="center">I'm Sochima Fabian Onuorah, a full-stack web developer from Africa. I enjoy working with PHP, Python and Javascript and building web applications that help solve real-world problems</h3>
 

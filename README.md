@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sochyma_onuorah" target="blank"><img src="https://img.shields.io/twitter/follow/sochyma_onuorah?logo=twitter&style=for-the-badge" alt="sochyma_onuorah" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/sochyma_onuorah" target="blank"><img src="https://img.shields.io/instagram/follow/sochyma_onuorah?logo=instagram&style=for-the-badge" alt="sochyma_onuorah" /></a> </p>
-
 - 🌱 I’m currently learning **AI development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SochimaFabian](https://github.com/SochimaFabian)
